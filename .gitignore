@@ -1,3 +1,5 @@
 __pycache__/
 _app_tweets.py
 tellmeastory/
+.streamlit/
+.env
